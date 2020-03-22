@@ -12,7 +12,7 @@ pip2 install bs4     |
 pkg update     |
 pkg upgrade     |
 
-run Bo ( python2 999dice.py )
+run Bot ( python2 999dice.py )
 
 Stop Bot ( ctrl + 4 )
 
