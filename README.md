@@ -1,7 +1,7 @@
 # 999dice On Terminal
 999dice Bot For Termux Or Linux With Python2
 
-How to Run On Termux 
+## How to Run On Termux 
 
 pkg install python2 |
 pkg install curl  |
@@ -16,7 +16,7 @@ run Bot ( python2 999dice.py )
 
 Stop Bot ( ctrl + 4 )
 
-How To Run On Linux
+## How To Run On Linux
 
 apt-get install python2  |
 apt-get install curl  |
